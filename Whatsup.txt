@@ -9,3 +9,5 @@ THIS IS WHATSUP CODE;
 4.adding audio call 
 
 5.adding video call
+
+i have added a new feature in whats up for putting status
