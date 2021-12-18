@@ -5,3 +5,7 @@ THIS IS WHATSUP CODE;
 2.Last seen code
 
 3.hiding last seen
+
+4.adding audio call 
+
+5.adding video call
