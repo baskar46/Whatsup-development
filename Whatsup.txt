@@ -3,3 +3,5 @@ THIS IS WHATSUP CODE;
 1.Profile page code
 
 2.Last seen code
+
+3.hiding last seen
