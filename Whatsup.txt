@@ -10,4 +10,6 @@ THIS IS WHATSUP CODE;
 
 5.adding video call
 
-i have added a new feature in whats up for putting status
+
+7.Adding document
+
